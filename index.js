@@ -1,0 +1,1 @@
+export default (coefficient, power, start, end) => (coefficient < 0 ? 0 : coefficient) * (((Math.pow(end, power)) * end) - ((Math.abs(Math.pow(start, power))) * start)) / (power + 1);
