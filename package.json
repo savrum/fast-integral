@@ -1,6 +1,6 @@
 {
   "name": "fast-integral",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "One line JS library to calculate integral of axⁿ type equations. ",
   "main": "index.js",
   "scripts": {
